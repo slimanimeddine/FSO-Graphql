@@ -6,8 +6,7 @@ This repository is dedicated to my submissions for Part 8 of the Full Stack Open
 
 1. [Introduction](#introduction)
 2. [Repository Structure](#repository-structure)
-3. [GraphQL Server](#graphql-server)
-4. [Certification of Completion](#certification-of-completion)
+3. [Certification of Completion](#certification-of-completion)
    
 ## Introduction
 
@@ -21,10 +20,6 @@ The structure of this repository is as follows:
 - **library-frontend**: Frontend implementation for the library project using GraphQL
 
 Feel free to explore each directory to review my code and solutions.
-
-## GraphQL Server
-
-The `library-backend` directory contains the GraphQL server implementation for the library project. Follow the instructions in the README file to set up and run the GraphQL server locally.
 
 ## Certification of Completion
 
